@@ -1,2 +1,2 @@
-# helixplugins
+# helix-plugins
  
